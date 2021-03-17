@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "FTA ❤️ ALLİance",
+        "GUILD_ID": "813468422930694176",
+        "VOICE_CHANNEL": "821366276731437076",
+        "MIN_STAFF_ROLE": "818538303568478209"
+    },
+    "FILES": {
+        "WELCOME": "",
+        "STAFF": "https://cdn.glitch.com/aebd3e96-a27b-49e4-91ae-cf54d70ae212%2Fyetkili.mp3?v=1615823404425"
+    }
+  
+}
